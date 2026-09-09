@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1788935006 source:/home/balghari/Code_Block_Practices/DSA/Student/main.cpp
+	<iostream>
+	"student.h"
+
+1788935006 /home/balghari/Code_Block_Practices/DSA/Student/student.h
+	<string>
+
+1788935023 source:/home/balghari/Code_Block_Practices/DSA/Student/student.cpp
+	<iostream>
+	"student.h"
+
