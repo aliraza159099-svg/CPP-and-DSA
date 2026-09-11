@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1789153907 source:/home/balghari/Code_Block_Practices/DSA/Inheritance/Inheritance/main.cpp
+	<iostream>
+	"animal.h"
+
+1789153907 /home/balghari/Code_Block_Practices/DSA/Inheritance/Inheritance/animal.h
+	<string>
+

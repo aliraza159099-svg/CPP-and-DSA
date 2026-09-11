@@ -3,7 +3,7 @@
 #include <iostream>
 
 // The :: symbol means "displayDetails belongs to the Student class"
-Student::Student(std::string n, int r) {
+Student::Student(string n, int r) {
     name = n;
     rollNumber = r;
 }
