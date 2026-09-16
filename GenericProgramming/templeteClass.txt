@@ -1,0 +1,52 @@
+#include <iostream>
+#include "Box.h"
+
+using namespace std;
+
+template <class T>
+Box<T>::Box(T a){
+    value = a;
+}
+
+template <class T>
+void Box<T>::display()
+{
+    cout << "Value: " << value << endl;
+}
+
+
+main.cpp
+#include <iostream>
+#include "Box.h"
+
+using namespace std;
+
+int main()
+{
+    Box<int> b1(10);
+    Box<float> b2(2.7f);
+
+    b1.display();
+    b2.display();
+
+    return 0;
+}
+
+
+box.h
+#ifndef BOX_H
+#define BOX_H
+
+template <class T>
+class Box
+{
+private:
+    T value;
+
+public:
+    Box(T v);
+    void display();
+};
+
+#endif
+
