@@ -1,0 +1,136 @@
+# depslib dependency file v1.0
+1790053406 source:c:\users\bscs2580\desktop\lab00\lab01\main.cpp
+	<iostream>
+	"Shape.h"
+	"Shape_2D.h"
+	"Shape_3D.h"
+	"Circle.h"
+	"Rectangle.h"
+
+1790053406 .h"
+
+1790049561 source:c:\users\bscs2580\desktop\lab00\lab01\src\shape.cpp
+	"Shape.h"
+
+1790051058 
+
+1790049513 c:\users\bscs2580\desktop\lab00\lab01\include\shape.h
+	<string>
+
+1790050982 source:c:\users\bscs2580\desktop\lab00\lab01\src\shape_2d.cpp
+	"Shape_2D.h"
+	<iostream>
+
+1790054513 
+
+1790050443 c:\users\bscs2580\desktop\lab00\lab01\include\shape_2d.h
+	"Shape.h"
+
+1790051033 source:c:\users\bscs2580\desktop\lab00\lab01\src\shape_3d.cpp
+	"Shape_3D.h"
+	<iostream>
+
+1790051058 c:\users\bscs2580\desktop\lab00\lab01\include\shape_3d.h
+	"Shape.h"
+
+1790053673 source:c:\users\bscs2580\desktop\lab00\lab01\src\circle.cpp
+	"Circle.h"
+	<iostream>
+
+1790051701 c:\users\bscs2580\desktop\lab00\lab01\include\circle.h
+	"Shape_2D.h"
+
+1790054477 h"
+
+1790053673 source:c:\users\bscs2580\desktop\lab00\lab01\src\rectangle.cpp
+	"Rectangle.h"
+	<iostream>
+
+1790052999 c:\users\bscs2580\desktop\lab00\lab01\include\rectangle.h
+	"Shape_2D.h"
+
+1790054043 source:c:\users\bscs2580\desktop\lab00\lab01\src\square.cpp
+	"Square.h"
+	<iostream>
+
+1790053968 c:\users\bscs2580\desktop\lab00\lab01\include\square.h
+	"Shape_2D.h"
+
+1790054415 source:c:\users\bscs2580\desktop\lab00\lab01\src\cube.cpp
+	"Cube.h"
+	<iostream>
+
+1790054321 c:\users\bscs2580\desktop\lab00\lab01\include\cube.h
+	"Shape_3D.h"
+
+1790054513 source:c:\users\bscs2580\desktop\lab00\lab01\src\sphere.cpp
+	"Sphere.h"
+	<iostream>
+
+1790054477 c:\users\bscs2580\desktop\lab00\lab01\include\sphere.h
+	"Shape_3D.h"
+
+1790011376 source:/home/balghari/Desktop/Lab01/main.cpp
+	<iostream>
+	"Shape.h"
+	"Circle.h"
+	"Rectangle.h"
+	"Square.h"
+	"Cube.h"
+	"Sphere.h"
+
+1790006312 /home/balghari/Desktop/Lab01/include/Shape.h
+	<string>
+
+1790008500 /home/balghari/Desktop/Lab01/include/Circle.h
+	"Shape_2D.h"
+
+1790007242 /home/balghari/Desktop/Lab01/include/Shape_2D.h
+	"Shape.h"
+
+1790009798 /home/balghari/Desktop/Lab01/include/Rectangle.h
+	"Shape_2D.h"
+
+1790010768 /home/balghari/Desktop/Lab01/include/Square.h
+	"Shape_2D.h"
+
+1790011120 /home/balghari/Desktop/Lab01/include/Cube.h
+	"Shape_3D.h"
+
+1790007858 /home/balghari/Desktop/Lab01/include/Shape_3D.h
+	"Shape.h"
+
+1790011276 /home/balghari/Desktop/Lab01/include/Sphere.h
+	"Shape_3D.h"
+
+1790010472 source:/home/balghari/Desktop/Lab01/src/Circle.cpp
+	"Circle.h"
+	<iostream>
+
+1790011214 source:/home/balghari/Desktop/Lab01/src/Cube.cpp
+	"Cube.h"
+	<iostream>
+
+1790010472 source:/home/balghari/Desktop/Lab01/src/Rectangle.cpp
+	"Rectangle.h"
+	<iostream>
+
+1790006360 source:/home/balghari/Desktop/Lab01/src/Shape.cpp
+	"Shape.h"
+
+1790007782 source:/home/balghari/Desktop/Lab01/src/Shape_2D.cpp
+	"Shape_2D.h"
+	<iostream>
+
+1790007832 source:/home/balghari/Desktop/Lab01/src/Shape_3D.cpp
+	"Shape_3D.h"
+	<iostream>
+
+1790011312 source:/home/balghari/Desktop/Lab01/src/Sphere.cpp
+	"Sphere.h"
+	<iostream>
+
+1790010842 source:/home/balghari/Desktop/Lab01/src/Square.cpp
+	"Square.h"
+	<iostream>
+
