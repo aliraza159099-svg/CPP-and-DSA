@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1790593714 source:/home/ali/Desktop/CodeBlock/LAB 02/src/List.cpp
+	"List.h"
+	<string>
+	<iostream>
+
+1790588466 /home/ali/Desktop/CodeBlock/LAB 02/include/List.h
+
+1790593898 source:/home/ali/Desktop/CodeBlock/LAB 02/main.cpp
+	<iostream>
+	"List.h"
+
