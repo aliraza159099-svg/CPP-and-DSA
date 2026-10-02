@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1790908911 source:/home/ali/Desktop/CodeBlock/Assignme t 02 DSA/Linked List/Lnked List/main.cpp
+	<iostream>
+	"List.h"
+
+1790908911 /home/ali/Desktop/CodeBlock/Assignme t 02 DSA/Linked List/Lnked List/include/List.h
+
+1790917436 source:/home/ali/Desktop/CodeBlock/Assignme t 02 DSA/Linked List/Lnked List/src/List.cpp
+	"List.h"
+	<string>
+	<iostream>
+
+1790908911 source:/home/ali/Desktop/Assignme t 02 DSA/Linked List/main.cpp
+	<iostream>
+	"List.h"
+
+1790908911 /home/ali/Desktop/Assignme t 02 DSA/Linked List/include/List.h
+
+1790917436 source:/home/ali/Desktop/Assignme t 02 DSA/Linked List/src/List.cpp
+	"List.h"
+	<string>
+	<iostream>
+

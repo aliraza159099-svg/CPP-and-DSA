@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1790907136 source:/home/ali/Desktop/CodeBlock/Static Array/main.cpp
+	<iostream>
+	"List.h"
+
+1790907135 /home/ali/Desktop/CodeBlock/Static Array/include/List.h
+
+1790907136 source:/home/ali/Desktop/CodeBlock/Static Array/src/List.cpp
+	"List.h"
+	<string>
+	<iostream>
+
+1790907136 source:/home/ali/Desktop/CodeBlock/Assignme t 02 DSA/Static Array/main.cpp
+	<iostream>
+	"List.h"
+
+1790907135 /home/ali/Desktop/CodeBlock/Assignme t 02 DSA/Static Array/include/List.h
+
+1790907136 source:/home/ali/Desktop/CodeBlock/Assignme t 02 DSA/Static Array/src/List.cpp
+	"List.h"
+	<string>
+	<iostream>
+
