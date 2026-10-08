@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1634219440 source:d:\office_work\datastructure\labs\codeblocks\lab_03_doubly_linked_list\main.cpp
+	<iostream>
+	<DList.h>
+
+1634220013 
+
+1634220013 source:d:\office_work\datastructure\labs\codeblocks\lab_03_doubly_linked_list\src\dlist.cpp
+	"DList.h"
+	<iostream>
+
+1634220000 d:\office_work\datastructure\labs\codeblocks\lab_03_doubly_linked_list\include\dlist.h
+
+1634220024 source:/home/ali/Desktop/Lab_02_Doubly_Linked_List/main.cpp
+	<iostream>
+	<DList.h>
+
+1634220002 /home/ali/Desktop/Lab_02_Doubly_Linked_List/include/DList.h
+
+1791373408 source:/home/ali/Desktop/Lab_02_Doubly_Linked_List/src/DList.cpp
+	"DList.h"
+	<iostream>
+
