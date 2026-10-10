@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1791262408 source:d:\users\bscs2580\desktop\lab 03\lab 03\main.cpp
+	<iostream>
+	"Stack.h"
+
+1791262514 source:d:\users\bscs2580\desktop\lab 03\lab 03\src\stack.cpp
+	"Stack.h"
+	<iostream>
+
+1791261501 d:\users\bscs2580\desktop\lab 03\lab 03\include\stack.h
+
