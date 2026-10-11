@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1791737456 source:/home/ali/Desktop/DSA Lab 03/Stack Using Static Array/main.cpp
+	<iostream>
+	"Stack.h"
+
+1791628779 /home/ali/Desktop/DSA Lab 03/Stack Using Static Array/include/Stack.h
+
+1791737506 source:/home/ali/Desktop/DSA Lab 03/Stack Using Static Array/src/Stack.cpp
+	"Stack.h"
+	<iostream>
+

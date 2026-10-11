@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1791742337 source:/home/ali/Desktop/DSA Lab 03/Queue Using Linked List/main.cpp
+	<iostream>
+	"QueueLinked.h"
+
+1791742337 /home/ali/Desktop/DSA Lab 03/Queue Using Linked List/include/QueueLinked.h
+
+1791742337 source:/home/ali/Desktop/DSA Lab 03/Queue Using Linked List/src/QueueLinked.cpp
+	"QueueLinked.h"
+	<iostream>
+	<string>
+

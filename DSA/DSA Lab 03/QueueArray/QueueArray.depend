@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1791736388 source:c:\lab_3\queuearray\src\queuearray.cpp
+	"QueueArray.h"
+	<iostream>
+	<string>
+
+1791736388 
+
+1791736388 c:\lab_3\queuearray\include\queuearray.h
+
+1791736388 source:c:\lab_3\queuearray\src\queuelinked.cpp
+	"QueueLinked.h"
+	<iostream>
+	<string>
+
+1791736388 c:\lab_3\queuearray\include\queuelinked.h
+
+1791739637 source:c:\lab_3\queuearray\main.cpp
+	<iostream>
+	"QueueLinked.h"
+
+1791739637 ed.h"
+
+1791739637 source:/home/ali/Desktop/DSA Lab 03/QueueArray/main.cpp
+	<iostream>
+	"QueueLinked.h"
+
+1791736388 /home/ali/Desktop/DSA Lab 03/QueueArray/include/QueueLinked.h
+
+1791736388 source:/home/ali/Desktop/DSA Lab 03/QueueArray/src/QueueArray.cpp
+	"QueueArray.h"
+	<iostream>
+	<string>
+
+1791736388 /home/ali/Desktop/DSA Lab 03/QueueArray/include/QueueArray.h
+
