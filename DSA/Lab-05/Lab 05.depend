@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1792469733 source:d:\users\bscs2580\desktop\lab 04\lab 05\main.cpp
+	<iostream>
+	<chrono>
+	<thread>
+	<cstdlib>
+
