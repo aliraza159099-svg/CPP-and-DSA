@@ -5,3 +5,12 @@
 	<thread>
 	<cstdlib>
 
+1792469733 
+
+1792931382 source:/home/ali/Desktop/Lab-05/main.cpp
+	<iostream>
+	<chrono>
+	<thread>
+	<cstdlib>
+	<compare>
+
