@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1795182162 source:/home/ali/Desktop/LAb_07/Lab_07/main.cpp
+	<iostream>
+	"BST.h"
+	<vector>
+	<random>
+
+1795180099 source:/home/ali/Desktop/LAb_07/Lab_07/src/BST.cpp
+	<cstddef>
+	"BST.h"
+
+1795180621 /home/ali/Desktop/LAb_07/Lab_07/include/BST.h
+	<cstddef>
+	"../src/BST.cpp"
+
+1795180799 /home/ali/Desktop/LAb_07/Lab_07/src/BST.cpp
+	<cstddef>
+
