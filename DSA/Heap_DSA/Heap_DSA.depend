@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1795270069 source:/home/ali/Desktop/Heap_DSA/src/Heap.cpp
+	"Heap.h"
+
+1795268501 /home/ali/Desktop/Heap_DSA/include/Heap.h
+
+1795269596 source:/home/ali/Desktop/Heap_DSA/main.cpp
+	<iostream>
+	"Heap.h"
+	<vector>
+	<random>
+
